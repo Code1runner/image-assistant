@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Jak działa ten asystent?",
+    "answer": "Asystent rozpoznaje obiekty na zdjęciach i odpowiada na pytania z FAQ."
+  },
+  {
+    "question": "Jak przesłać zdjęcie?",
+    "answer": "Zdjęcie możesz przesłać przez interfejs lub podać ścieżkę do pliku."
+  },
+  {
+    "question": "Czy asystent rozpoznaje samochody?",
+    "answer": "Obecnie rozpoznaje tylko ogólne kategorie, ale planujemy rozwój."
+  },
+  {
+    "question": "Jakie obiekty mogę rozpoznać?",
+    "answer": "Asystent rozpoznaje różne obiekty, takie jak zwierzęta, budynki, jedzenie i inne."
+  },
+  {
+    "question": "Czy moje zdjęcia są bezpieczne?",
+    "answer": "Tak, Twoje zdjęcia są przetwarzane bezpiecznie i nie są przechowywane na stałe."
+  },
+  {
+    "question": "Co zrobić, jeśli asystent się pomyli?",
+    "answer": "Jeśli asystent nie rozpozna poprawnie obiektu, możesz spróbować przesłać inne zdjęcie lub opisać obiekt słowami."
+  }
+]
