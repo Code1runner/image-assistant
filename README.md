@@ -33,8 +33,8 @@ Image Assistant is a lightweight web app built with Streamlit that allows users 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/michalgabb98/image-assistant.git
-cd image-assistant/image_assistant
+git clone https://github.com/Code1runner/image-assistant.git
+cd image-assistant
 ```
 
 ### 2. Set Up Environment Variables
@@ -85,21 +85,3 @@ Then open [http://localhost:8080](http://localhost:8080) in your browser.
 ├── faq_utils.py        # FAQ chatbot utilities
 ├── faq.json            # Sample FAQ data
 ```
-
----
-
-## 📦 Deployment
-
-This app can be deployed on [Google Cloud Run](https://cloud.google.com/run) using a Docker container.
-
----
-
-## 🧑‍💻 Author
-
-Made by [Code1Runner](https://github.com/michalgabb98)
-
----
-
-## �� License
-
-MIT License
